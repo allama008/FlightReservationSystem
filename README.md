@@ -4,8 +4,8 @@ This flight reservation system project was developed as part of the Object Orien
 
 ## Getting started
 
-Kindly setup Java for your system by following the steps mentioned [here](https://www.geeksforgeeks.org/setting-environment-java/)
-All dependent JAR files can be found in the repository [here](/dist/lib/)
+Kindly setup Java for your system by following the steps mentioned [here](https://www.geeksforgeeks.org/setting-environment-java/).
+All dependent JAR files can be found in the repository [here](/dist/lib/).
 
 ### Setup project
 
