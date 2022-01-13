@@ -10,7 +10,7 @@ All dependent JAR files can be found in the repository [here](/dist/lib/).
 ### Setup project
 
   - Clone this repository using https://github.com/allama008/FlightReservationSystem.git
-  - cd into the folder
+  - `cd` into the folder
   - In the project configurations, pass the following arguments
     - .\2016.spicejet.csv
     - .\2016.silkair.csv
