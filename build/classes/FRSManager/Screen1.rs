@@ -1,0 +1,17 @@
+FRSManager.Screen1$3
+FRSManager.Screen1$4
+FRSManager.Screen1$5
+FRSManager.Screen1$6
+FRSManager.AutoSuggestor$2
+FRSManager.SuggestionLabel
+FRSManager.AutoSuggestor$3
+FRSManager.Screen1$1
+FRSManager.AutoSuggestor$1
+FRSManager.Screen1$2
+FRSManager.Screen1
+FRSManager.AutoSuggestor
+FRSManager.Screen1$7
+FRSManager.SuggestionLabel$2
+FRSManager.Screen1$8
+FRSManager.SuggestionLabel$1
+FRSManager.Screen1$9
